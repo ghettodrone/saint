@@ -1,1 +1,4 @@
-12313
+discord.py
+aiohttp
+websockets
+chardet
